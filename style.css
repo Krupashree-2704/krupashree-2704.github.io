@@ -1,0 +1,657 @@
+body
+{
+    overflow-x: hidden;
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+    padding: 0;
+}
+#imgTag
+{
+    width: 198px;
+    height: 36px;
+    margin-left: 14px;
+    margin-top: 5px;
+
+}
+.carousel-indicators button
+{
+    border-radius: 100%;
+    height: 10px!important;
+    width: 10px!important;
+    margin: 8px!important;
+    background-color: #212121!important;
+}
+/* .carousel-indicators button .active
+{
+    color: red;
+} */
+#NewsandMediaSection h1
+{
+    text-align: center;
+    font-size: 23px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+}
+#NewsandMediaSection
+{
+    display: inline;
+}
+/* #ImgThumbnail article
+{
+    display: inline;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    width: 312px!important;
+} */
+#ImgThumbnail
+{
+    display: inline-block;
+}
+#ImgThumbnail div
+{
+    display: inline-block;
+    width: 24.7%;
+    margin:  0px 0px 0px
+}
+#ImgThumbnail img
+{
+    width: 317px;
+}
+#ImgThumbnail h2 {
+    display: inline;
+    position: relative;
+    font-size: 14px;
+    top: -29px;
+    left: 7px;
+}
+#NewsandMediaSection#NewsandMediaSectionH1 {
+    display: inline;
+    font-size: 18px;
+    /* margin: 183px 0px 100px -315px; */
+    position: relative;
+    text-align: left;
+    top: -54px;
+    left: -308px;
+    line-height: 24px;
+}
+#NewsandMediaSection img
+{
+    width: 312px;
+}
+#Section1 {
+    width: 312px;
+    display: inline-block;
+    margin: -12px -325px 0px 9px;
+}
+#Section1 p
+{
+    width: 312px;
+    display: inline;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    font-size: 14px;
+    padding: 0px 0px 0px 107px;
+}
+#NavContent
+{
+    padding-right: 10px;
+    color: white;
+}
+#NavContent:hover
+{
+    color: red;
+}
+#DropdownContent
+{
+    font-size: 14px;
+    color: white;
+}
+#DropdownContent:hover
+{
+    color: red;
+}
+#NavigationList.navbar-nav{
+    margin: 0px 4px 0px 91px;
+}
+#NavigationList ul
+{
+    display: inline;
+    list-style: none;
+    margin: 0px 0px 0px 180px;
+}
+#NavigationList ul li
+{
+    /* display: inline; */
+    list-style: none;
+    color: white;
+}
+.nav-item a img
+{
+    width: 34px;
+    height: 25px;
+}
+#MotorcycleSection
+{
+    padding: 10px;
+}
+#MotorcycleSection ul
+{
+    list-style: none;
+    display: inline;
+    padding: 10px 10px 10px 10px;
+}
+#MotorcycleSection ul li
+{
+    list-style: none;
+    display: inline;
+    padding-right: 13px;
+    padding-left: 15px;
+    border-right: 2px solid white;
+    font-size: 16px;
+}
+#MotorcycleSection ul li:hover
+{
+    color: red;
+    cursor: pointer;
+}
+#Meteor350li
+{
+    border-right: none!important;
+}
+#MotorcycleH1
+{
+    border-right: none!important;
+}
+#MotorcycleSection ul li h1 
+{
+    color: white;
+}
+#MotorcycleSection ul li h1
+{
+    list-style: none;
+    display: inline;
+    font-size: 16px;
+}
+#motorcycleImg
+{
+    width: 100%;
+}
+#RideSection
+{
+    padding: 10px;
+}
+#RideSection ul
+{
+    list-style: none;
+    display: inline;
+    padding: 10px 10px 10px 10px;
+}
+#RideSection ul li
+{
+    list-style: none;
+    display: inline;
+    padding-right: 13px;
+    padding-left: 15px;
+    border-right: 2px solid white;
+    font-size: 16px;
+}
+#RideSection ul li:hover
+{
+    color: red;
+    cursor: pointer;
+}
+#GoaGarageCafe
+{
+    border-right: none!important;
+}
+#MotorcycleH1
+{
+    border-right: none!important;
+}
+#RideSection ul li h1 
+{
+    color: white;
+}
+#RideSection ul li h1
+{
+    list-style: none;
+    display: inline;
+    font-size: 16px;
+}
+#rideImg
+{
+    width: 100%;
+}
+#ApparelSection
+{
+    padding: 10px;
+}
+#ApparelSection ul
+{
+    list-style: none;
+    display: inline;
+    padding: 10px 10px 10px 10px;
+}
+#ApparelSection ul li
+{
+    list-style: none;
+    display: inline;
+    padding-right: 13px;
+    padding-left: 15px;
+    border-right: 2px solid white;
+    font-size: 16px;
+}
+#ApparelSection ul li:hover
+{
+    color: red;
+    cursor: pointer;
+}
+#MIYRidingJacket
+{
+    border-right: none!important;
+}
+#MotorcycleH1
+{
+    border-right: none!important;
+}
+#ApparelSection ul li h1 
+{
+    color: white;
+}
+#ApparelSection ul li h1
+{
+    list-style: none;
+    display: inline;
+    font-size: 16px;
+}
+#apparelDiv
+{
+    width: 100%;
+}
+#AccesoriesSection
+{
+    padding: 10px;
+}
+#AccesoriesSection ul
+{
+    list-style: none;
+    display: inline;
+    padding: 10px 10px 10px 10px;
+}
+#AccesoriesSection ul li
+{
+    list-style: none;
+    display: inline;
+    padding-right: 13px;
+    padding-left: 15px;
+    border-right: 2px solid white;
+    font-size: 16px;
+}
+#AccesoriesSection ul li:hover
+{
+    color: red;
+    cursor: pointer;
+}
+#MakeIY
+{
+    border-right: none!important;
+}
+#MotorcycleH1
+{
+    border-right: none!important;
+}
+#AccesoriesSection ul li h1 
+{
+    color: white;
+}
+#AccesoriesSection ul li h1
+{
+    list-style: none;
+    display: inline;
+    font-size: 16px;
+}
+#accesoriesDiv
+{
+    width: 100%;
+}
+#LocateUsSection
+{
+    padding: 10px;
+}
+#LocateUsSection ul
+{
+    list-style: none;
+    display: inline;
+    padding: 10px 10px 10px 10px;
+}
+#LocateUsSection ul li
+{
+    list-style: none;
+    display: inline;
+    padding-right: 13px;
+    padding-left: 15px;
+    border-right: 2px solid white;
+    font-size: 16px;
+}
+#LocateUsSection ul li:hover
+{
+    color: red;
+    cursor: pointer;
+}
+#GParts
+{
+    border-right: none!important;
+}
+#MotorcycleH1
+{
+    border-right: none!important;
+}
+#LocateUsSection ul li h1 
+{
+    color: white;
+}
+#LocateUsSection ul li h1
+{
+    list-style: none;
+    display: inline;
+    font-size: 16px;
+}
+#locateDiv
+{
+    width: 100%;
+}
+#PopularTags h1
+{
+    text-align: center;
+    font-size: 23px;
+    margin-top: 11px;
+    margin-bottom: 11px;
+}
+#JoinAConversation
+{
+    background-color: #e5e3e3;
+    color: black;
+    text-align: right;
+    width: 101%;
+    margin: 0px 0px -16px 0px;
+}
+#JoinAConversation p
+{
+    display: inline-block;
+    margin: 25px 10px 25px 10px;
+}
+#ImgIcon
+{
+    font-size: 30px;
+    padding: 10px 10px 10px 10px;
+}
+#twitterIcon
+{
+    border-radius: 50%;
+    margin: 10px 10px 23px 10px;
+}
+.fa-linkedin-square:before {
+    content: "\f08c";
+    margin-right: 40px;
+}
+hr {
+    margin: 0px 33px 0px 20px;
+    color: inherit;
+    border: 0;
+    border-top: var(--bs-border-width) solid;
+    opacity: .25;
+}
+#FooterSection
+{
+    background-color: #e5e3e3;
+    color: black;
+    width: 101%;
+}
+#MainDiv .col {
+    margin-left: 35px;
+    margin-top: 30px;
+}
+#MainDiv .col h1
+{
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 29px;
+}
+#MainDiv .col p {
+    font-size: 14px;
+    font-weight: 600;
+}
+#MainDiv .col p:hover{
+    color: red;
+    cursor: pointer;
+}
+.row {
+    --bs-gutter-x: -2.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+}
+#ServiceSection
+{
+    width: 100%;
+    margin-bottom: 25px;
+}
+#ServiceSection img
+{
+    width: 100%;
+    background-color: transparent;
+}
+#ServiceSectionp
+{
+    margin: 0px 28px;
+}
+#ServiceSection p
+{
+    display: inline;
+    padding: 0px 147px 0px 156px;
+    margin: 10px -18px 10px 10px;
+}
+#ServiceSection p:hover
+{
+   color: red;
+   cursor: pointer;
+}
+#ByeByeSection
+{
+    background-color: #e5e3e3;
+    color: black;
+    height: auto;
+    width: 101%;
+}
+#ByeByeSection1
+{
+    display: inline;
+    width: 25%;
+    font-weight: 600;
+}
+#ByeByeSection1 p
+{
+    /* margin: 10px 10px 10px 10px ;  */
+    display: inline;
+    font-size: 10px;
+    
+    width: 25%!important;
+ }
+p#Paragraph
+{
+    margin-left: 59px;
+}
+p#Paragraph1
+{
+    margin-left: 54px;
+    border-right: 1.4px solid black;
+    padding: 0px 5px;
+}
+p#Paragraph:nth-child(1)
+{
+    border-right: 2px soild black;
+}
+/* #Paragraph
+{
+    margin-left: 54px;
+} */
+#BRParagraph
+{
+    margin-left: 54px;
+}
+#ByeByeSection2
+{
+    display: inline;
+    width: 25%;
+    font-weight: 600;
+    float: right;
+}
+#ByeByeSection2 p
+{
+    /* margin: 10px 10px 10px 10px ;  */
+    display: inline;
+    font-size: 10px;
+    
+    width: 25%!important;
+ }
+/* #ByeByeSection2p#Paragraph
+{
+    margin-left: 59px;
+} */
+#Paragraph2
+{
+    margin-left: 2px;
+    border-right: 1.4px solid black;
+    padding-right: 10px;
+}
+#ParagraphPrivate
+{
+    margin-left: -94px;
+    border-right: 1.4px solid black;
+    padding: 0px 10px;
+}
+#ParagraphSiteMap
+{
+    padding: 0px 0px 0px 5px;
+}
+#ByeByeSection2 p:hover
+{
+    color: red;
+    cursor: pointer;
+}
+/* #MainDiv .col p:nth-child(1) {
+    margin-top: 10px;
+} */
+/* #Carousel1
+{} */
+/* #carouselExampleInterval
+{
+    display: inline;
+}
+div#Carousel1
+{
+    display: inline-block;
+}
+.carousel {
+    position: relative;
+    width: 25%!important;
+    /* display: flex; */
+/* }
+.carousel-item img
+{
+    vertical-align: middle;
+    width: 100%;
+}
+.carousel-item {
+    /* position: relative; */
+    /* display: none;
+    float: left;
+    width: 100%;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden; */
+    /* transition: transform .6s ease-in-out; */
+/* }
+.carousel-item-active
+{
+    display: inline-block;
+}  */ 
+#CarouselImg
+{
+    width: 100%;
+    height: 328px;
+}
+.row {
+    --bs-gutter-x: -0.5rem;
+}
+#AllNewHimalayan
+{
+    top: 42%;
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    z-index: 1px;
+    z-index: 1;
+    left: 22%;
+}
+#AllNewHimalayan:hover
+{
+    cursor: pointer;
+    color: red;
+}
+#Motorverse
+{
+    top: 42%;
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    z-index: 1px;
+    z-index: 1;
+    left: 22%;
+}
+#Motorverse:hover
+{
+    cursor: pointer;
+    color: red;
+}
+#PreCrusing
+{
+    top: 42%;
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    z-index: 1px;
+    z-index: 1;
+    left: 31%;
+}
+#PreCrusing:hover
+{
+    cursor: pointer;
+    color: red;
+}
+#Classic350
+{
+    top: 42%;
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    z-index: 1px;
+    z-index: 1;
+    left: 34%;
+}
+#Classic350:hover
+{
+    cursor: pointer;
+    color: red;
+}
